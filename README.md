@@ -4,7 +4,7 @@ Source code for our BeachHacks 2022 game submission!
 
 ### How to Play
 
-Go to the "Releases" page and download the ColorCrushers.zip file. Unzip it and run ColorCrushers.exe
+Go to the "Releases" page and download the ColorCrushers.zip file. Unzip it and run "BeachHacks 2022.exe"
 
 ## Inspiration
 
