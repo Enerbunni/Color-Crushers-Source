@@ -5,6 +5,7 @@ Source code for our BeachHacks 2022 game submission!
 ### How to Play
 
 Go to the "Releases" page and download the ColorCrushers.zip file. Unzip it and run "BeachHacks 2022.exe"
+The controls are simple: A and D move the character left and right, Q and E rotate the character left and right, and finally you can jump with spacebar.
 
 ## Inspiration
 
